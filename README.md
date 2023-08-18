@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrew-yh
 - 👀 I’m interested in technology, SRE, analytics, machine learning and investing
-- 🌱 I’m currently learning SRE, reliable analytics and crypto
-- 💞️ I’m looking to collaborate on DataOps, Reliable Analytics
+- 🌱 I’m currently learning SRE, reliable analytics and GenAI
+- 💞️ I’m looking to collaborate on DataOps, Reliable Analytics and GenAI projects
 - 📫 How to reach me here in GitHub
 
 <!---
